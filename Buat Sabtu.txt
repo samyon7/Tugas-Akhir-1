@@ -1,0 +1,18 @@
+dari rekaman 1
+=>harus punya gateway harus punya 3 node (FIXED)
+=>tujuan utamanya ingin melihat lora bisa dimanfaatkan dalam pengiriman data pertanian dari sensor sensor dan mengukur berapa kapasitas data dalam pengirimannya dan berapa lama data ini terkirim, sistem komunikasinya, menggunakan protokoler apa? selain lorawan
+Ans -> https://telka.ee.uinsgd.ac.id/index.php/TELKA/article/view/telka.v5n2.83-92
+=>membaca paper,apa saja menjadi keuntungan nya dll, mengeksplor apakah bisa dipisah dari time stene nya
+
+=>mengeksplor apakah lora ini bisa digunakan dalam IoT pertanian, mengenai waktu, kecepatan transfernya,kapasitas data, atau bandwitch yang ditawarkan per node nya atau pembagian bandwitch nya
+Berdasarkan dari banyak riset dan paper, lora cocok digunakan untuk IoT dalam pertanian. (FIXED)
+
+dari rekaman 2
+=> minggu depan diadakan proposal, menyusun bab 1 dan 2, research question, teori tentang lora
+=>mengeksplor paper tentang lora dan diskusikan proposal pada sabtu malam sekurang kurangnya di persiapkan dahulu
+=> jadwal penelitian pada bab 2, misalkan pada week 1-3 penentuan judul, week 4-6 menyusun proposal, week 7 perbaikan, week 8 pembelian alat, week 9 menganalisis masalah, week 10  membuat desain perancangan hardware,seperti itulah hingga sampai selesai
+
+dari rekaman 3
+=>pembuatan list harga lora gateway, sensor,jumper dll
+=>lora seperti raspbery banyak jenis/versinya
+=> SEMESTER 2 WAJIB DATANG KE KAMPUS UNTUK MELAKUKAN PENELITIAN
