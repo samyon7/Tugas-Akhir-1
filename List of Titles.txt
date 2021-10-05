@@ -1,1 +1,1 @@
-Mask and Temperature Detection with Automatic Sanitizer
+LoRa for Final Project
